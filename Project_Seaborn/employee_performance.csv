@@ -1,0 +1,11 @@
+Employee_ID,Department,Experience_Years,Performance_Score,Salary
+E101,IT,2,3.5,45000
+E102,HR,5,4.2,55000
+E103,Finance,7,4.6,65000
+E104,IT,3,3.8,48000
+E105,Marketing,6,4.1,60000
+E106,HR,4,3.9,52000
+E107,Finance,10,4.8,85000
+E108,IT,8,4.5,78000
+E109,Marketing,2,3.4,42000
+E110,HR,9,4.7,80000

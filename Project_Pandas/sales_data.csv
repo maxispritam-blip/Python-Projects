@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Region,Product_Category,Sales_Amount,Profit
+1001,2023-01-05,North,Electronics,25000,5000
+1002,2023-01-10,South,Furniture,18000,3000
+1003,2023-02-15,East,Clothing,12000,2500
+1004,2023-02-18,West,Electronics,30000,7000
+1005,2023-03-02,North,Clothing,15000,3500
+1006,2023-03-12,South,Electronics,22000,4500
+1007,2023-03-20,East,Furniture,27000,6000
+1008,2023-04-05,West,Clothing,13000,2800
+1009,2023-04-18,North,Furniture,32000,7500
+1010,2023-05-01,South,Electronics,29000,6800
